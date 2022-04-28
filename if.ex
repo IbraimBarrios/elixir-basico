@@ -5,6 +5,9 @@ else
   "Invalid string."
 end
 
+ege = 25
+if ege >= 18, do: "Mayor de edad", else: "Menor de edad"
+
 #ejemplo2
 if "a string value" do
   "Truthy"
